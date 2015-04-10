@@ -1,0 +1,1 @@
+The project will aim at creating tools that developers can use to unit test stored procedures.  The aim is to make use of this framework in a continuous integration server like most developers do for Java code..
